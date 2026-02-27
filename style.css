@@ -21,7 +21,7 @@ header {
     align-items: center;
     background: linear-gradient(
         135deg,
-        rgba(30, 41, 59, 0.8),
+        rgba(49, 83, 137, 0.8),
         rgba(15, 23, 42, 0.9)
     );
     backdrop-filter: blur(10px);
